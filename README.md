@@ -18,11 +18,11 @@ cancha para su grupo; y el encargado de la cancha que gestiona la disponibilidad
 ## Equipo y roles
 | Rol | Integrante |
 |---|---|
-| Producto / PM | @usuario1 |
-| Arquitectura | @usuario2 |
-| UX / Investigación | @usuario3 |
-| QA / Release | @usuario4 |
-| 5.º integrante | @usuario5 |
+| Producto / PM | Douglas Morales |
+| Arquitectura | Angel Ovalle |
+| UX / Investigación | Nathaly Reyes |
+| QA / Release | Marco Bolaños |
+| 5.º integrante | Julian Eduardo |
 
 ## Flujo de trabajo
 Nadie trabaja directamente en main.
