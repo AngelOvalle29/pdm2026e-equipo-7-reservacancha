@@ -27,3 +27,7 @@ cancha para su grupo; y el encargado de la cancha que gestiona la disponibilidad
 ## Flujo de trabajo
 Nadie trabaja directamente en main.
 issue -> rama -> PR -> revisión -> merge
+
+## Frase de valor
+Ayudamos a personas que quieren jugar deporte a reservar una cancha sin llamar
+ni escribir por WhatsApp, mediante una app con horarios y confirmación inmediata.
